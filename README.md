@@ -4,9 +4,8 @@ The objective of the project is to use unsupervised learning methods to analyze 
 ### Installations
 For the development of the project, the following Python libraries were required: 
 
-Pandas
-Numpy
-Scikit-learn
+Pandas, Numpy, Scikit-learn
+
 In addition, Python 3 was used. 
 
 ### The Data
