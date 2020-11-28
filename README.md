@@ -2,11 +2,13 @@
 The objective of the project is to use unsupervised learning methods to analyze attributes of established customers and the general population in order to create customer segments.
 
 ### Installations
-For the development of the project, the following Python libraries were required: 
 
-Pandas, Numpy, Scikit-learn
+This project requires **Python 3.x** and the following Python libraries installed:
 
-In addition, Python 3 was used. 
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
 
 ### The Data
 
